@@ -5,6 +5,7 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
     //testing the commit thang
+    //testing it again
 
 public class MainActivity2Activity extends ActionBarActivity {
 
